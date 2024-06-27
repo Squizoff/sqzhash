@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+sqzhash/__init__.py
+sqzhash/sqzhash.py
+sqzhash.egg-info/PKG-INFO
+sqzhash.egg-info/SOURCES.txt
+sqzhash.egg-info/dependency_links.txt
+sqzhash.egg-info/top_level.txt

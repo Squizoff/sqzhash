@@ -1,0 +1,1 @@
+from .sqzhash import SqzHash, hash_string, hash_file
