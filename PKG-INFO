@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: sqzhash
-Version: 1.0.3
+Version: 1.0.4
 Summary: SqzHash is a custom cryptographic hash algorithm implementation designed to compute hash values for strings and files.
-Home-page: https://github.com/your_username/your_repository
+Home-page: https://github.com/Squizoff/sqzhash
 Author: Squizoff
 Requires-Python: >=3.6
 Description-Content-Type: text/markdown
